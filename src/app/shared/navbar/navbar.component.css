@@ -1,0 +1,15 @@
+.navbar{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    margin: 0;
+    background-color: #f34336;
+    background-color: 1px solid black;
+    
+}
+
+a{
+    color: white;
+}

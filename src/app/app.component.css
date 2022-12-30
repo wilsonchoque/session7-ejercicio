@@ -1,0 +1,39 @@
+.contenedor{
+    margin: 20px auto;
+    width: 80%;
+}
+
+.navbar{
+    padding: 10px;
+    background-color: #ff2f1e;
+}
+
+h1{
+    color: white;
+}
+
+.card{
+    margin: 30px auto ;
+    width: 80%;
+    padding: 20px;
+    background: rgb(240, 239, 239);
+}
+
+.card-title{
+    margin: 5px 0;
+    padding-top: 30px;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.card-text{
+    margin: 0;
+    padding: 5px 0;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.botones a{
+    margin-right: 10px;
+}
